@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "d1c7387d-0184-4c47-a96d-cbcdb2129455",
+            "Value": {
+                "id": "7a330b32-ff37-4f38-9045-f09c27a3002d",
+                "resourcePath": "sprites\\JEANSBACKGROUND\\JEANSBACKGROUND.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d3784671-9ba7-4e58-9774-212e02f79e7e",
             "Value": {
                 "id": "1ce630f7-9a7f-42f5-9477-2d97c9107947",
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "e07679cf-580c-4174-a341-aba520046f9e",
+            "Value": {
+                "id": "55d62a82-1495-434d-896f-e6b21c307afe",
+                "resourcePath": "sounds\\_1_hour_winjingle\\_1_hour_winjingle.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ef5c488b-841f-421f-b199-25531a85a218",
             "Value": {
                 "id": "8e74fdca-e174-4001-aa7e-5f2885a96153",
@@ -300,6 +316,14 @@
                 "id": "7d35d6e4-633d-4839-b6cc-e1a8db615470",
                 "resourcePath": "sprites\\s_Flag\\s_Flag.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe3724eb-0cac-4dae-9720-96fb82496e32",
+            "Value": {
+                "id": "ee982eab-4ac6-40b7-b755-fd3af09c9d93",
+                "resourcePath": "sounds\\_1_hour\\_1_hour.yy",
+                "resourceType": "GMSound"
             }
         }
     ],
